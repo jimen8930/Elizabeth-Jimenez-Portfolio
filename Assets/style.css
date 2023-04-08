@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+}
+nav {
+    justify-content: right;
+    margin-top: 0;
+    padding: 20px;
+    flex-direction: row;
+    background-color: gray;
+    border: solid purple
+    
+}
+
+li {
+    display: none;
+}
+
+
+header {
+    font-size: 80px gray;
+    background-color: #8ac4ff;
+    padding: 40px;
+}
+
+button {
+    width: 250px;
+    margin: 0 ;
+    font-size: 200%;
+    color: blue;
+    background-color: #fff;
+    border: solid #13293d;
+}
+
+button:hover {
+    background-color: #772014;
+    color:#fff
+}
+
+button:active {
+    font-size: 180%;
+    box-shadow: 0 0 10px #000 inset;
+}
+
+button:focus {
+    outline: none;
+    border-color: #8ac4ff;
+}
