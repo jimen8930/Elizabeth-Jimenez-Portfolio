@@ -9,46 +9,65 @@
     </head>
 
     <body>
-       <header>
+       <header id="home">
         <h1>Elizabeth Jimenez</h1>
+         <p><b>Software Developer</b></p>
         <nav>
+           <ul>
             <button><a href="#home">Home</a></button>
-            <button><a href="about">About</a></button>
-            <button><a href="work">Work</a></button>
-            <button><a href="contact">Contact</a></button>
+            <button><a href="#about">About</a></button>
+            <button><a href="#work">Work</a></button>
+            <button><a href="#contact">Contact</a></button>
+           </ul>
         </nav>
     </header>
 
         <main>
             <section id="about">
-             <h2>About Me</h2> 
-             <p>Here is little about me. I am a software engineer.</p>  
+              <h2>About Me</h2> 
+               <p>Hi!! Software developer here. Nice to meet you. I am here to help, so check out my projects and you will see I have what you are looking for. </p>  
+                 <img src="Assets/src/About Me.png" class="center" width="200" height="200" alt="picture of me">
             </section>
 
             <section id="work">
               <h2>My Work</h2>
-              <div class="work-1">
-                <img src="work1.jpg" alt="Work 1">
-                <h3>Work 1</h3>
-                <p>This will likely be a first project of mine.</p>
-              </div>  
-              <div class="work-1">
-                <img src="work2.jpg" alt="Work 2">
-                <h3>Work 2</h3>
+              <article class="work-1">
+                <div class="container">
+                 <a href="https://jimen8930.github.io/Challenge01/" target="_blank">
+                  <img src="https://www.searchenginejournal.com/wp-content/uploads/2020/08/9-ways-you-can-make-your-website-more-accessible-5f3f5d3bd7a34.png" class="center" width="700" height="500" alt="Website 1"> 
+                   <div class="overlay">Refactoring Code</div>
+                 </a>
+                </div> 
+                <p>This project require me to refactor a code to ensure that website is accessible for people with visual disablities.</p>
+              </article> 
+               
+              <article class="work-1">
+                <div class="container">
+                 <a href="https://about.google/" target="_blank">
+                  <img src="https://www.herzing.edu/sites/default/files/2021-11/software-developers-at-work.jpg" class="center" width="200" height="200" alt="Website 2">
+                   <div class="overlay">Project-1</div>
+                </a>
+                </div>
                 <p>This will be the following project.</p>
-              </div>
-              <div class="work-1">
-               <img src="work3.jpg" alt="Work 3">
-               <h4>Work 3</h4>
+              </article>
+              <article class="work-1">
+               <div class="container">
+                 <a href="https://youtube.com/" target="_blank">
+                  <img src="https://saigontechnology.com/assets/media/Blog/typical-process-for-a-successful-mobile-development.jpeg" class="center" width="200" height="200" alt="App">
+                   <div class="overlay">Project-App</div>
+                </a>
+               </div>
                <p>A project made with more experience.</p>
-              </div>
-              </section>
+              </article>
+            </section>
               <section id="contact">
                 <h2>Contact Me</h2>
+                <p1>ejime053@gmail.com</p1>
               </section>
         </main>
     </body>
     <footer>
-        <p>Love Coding</p>
+        <p class="footertext">Love Coding</p>
+         <img src="Assets/src/EJ.png" class="center" alt="intials EJ">
     </footer>
 </html>
