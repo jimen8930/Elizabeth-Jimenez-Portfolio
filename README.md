@@ -12,3 +12,5 @@ Here is an an example of my work portfolio that demonstrates different projects 
 The purose of this porfolio is to organize and present my skills, projects, training and education. It allows me to display my best work. It also can provide a way to tell my story to an employer so they can view my career and the challenges I have overcame.
 
 Screen Recording 2023-04-13 at 11.45.27 AM.mov
+
+![Work Portfolio](https://user-images.githubusercontent.com/128547615/231820512-d33872ea-01ae-4303-8edd-3952f34eaecb.png)
