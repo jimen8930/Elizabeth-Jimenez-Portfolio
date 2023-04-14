@@ -150,5 +150,7 @@ footer {
     main,
     nav {
         flex-direction: column;
+        font-size: 10px;
+        
     }
 }
