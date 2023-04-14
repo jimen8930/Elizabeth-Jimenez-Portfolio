@@ -1,6 +1,6 @@
 # Elizabeth-Jimenez-Portfolio
 This link is an example of my work portfolio. 
-
+file:///Users/WayneJohnson/Desktop/Bootcamp/Week2/Elizabeth-Jimenez-Portfolio/index.html
 
 Description: 
 Here is an an example of my work portfolio that demonstrates different projects that I have completed. This portfolio is for employers to examine my work experience to determine if I am a good candidate for their company. This porfolio includes the following:
