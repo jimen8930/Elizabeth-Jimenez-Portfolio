@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# Elizabeth-Jimenez-Portfoliocd
-=======
 # Elizabeth-Jimenez-Portfolio
 This link is an example of my work portfolio. 
+
 
 Description: 
 Here is an an example of my work portfolio that demonstrates different projects that I have completed. This portfolio is for employers to examine my work experience to determine if I am a good candidate for their company. This porfolio includes the following:
@@ -16,4 +14,4 @@ The purose of this porfolio is to organize and present my skills, projects, trai
 
 
 ![Work Portfolio](https://user-images.githubusercontent.com/128547615/231820512-d33872ea-01ae-4303-8edd-3952f34eaecb.png)
->>>>>>> 4a353aa99fe7ecd97b2c243c073edec173f2476d
+
