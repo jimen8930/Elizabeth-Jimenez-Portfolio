@@ -1,5 +1,5 @@
 body {
-    background-color: #fb7185;
+    background-color: #5f9ea0;
     margin: 0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -20,9 +20,9 @@ p {
 }
 
 header {
-    background-color: aqua;
+    background-color: #5f9ea0;
     font-style: oblique;
-    border: solid #cd853f;
+    border: solid #5f9ea0;
     border-width: 20px;
     font-size: 15px;
     padding: 1rem;
@@ -36,13 +36,13 @@ button {
     margin: 0 ;
     font-size: 150%;
     color: #fb7185;
-    background-color: aqua;
+    background-color:#5f9ea0;
     border: none;
     justify-content: left;
 }
 
 button:hover {
-    background-color: purple;
+    background-color: white;
     color:#fff
 }
 
@@ -66,7 +66,7 @@ section {
 
 h1 {
     font-style: oblique;
-    color: #da70d6;
+    color: black;
     font-size: 40px;
 
 }
